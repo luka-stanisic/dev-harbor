@@ -7,9 +7,9 @@ draft: false
 ---
 
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+### How can we help?
+You can reach out through the contact form, or via our office email below. Either way we will review your request and be in touch as soon as possible. <br>
+<br>We look forward to hearing from you!
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Mail: office@dev-harbor.com**
+* **Location: Belgrade, Serbia**

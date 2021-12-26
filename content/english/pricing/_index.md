@@ -1,29 +1,23 @@
 ---
-title: "Pricing"
+title: "Basic Contract Options"
 subtitle: ""
 # meta description
 description: "This is meta description"
 draft: false
 
 basic:
-  name : "Basic Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Small Individuals"
+  name : "Fixed price contract"
   services:
   - "Express Service"
   - "Customs Clearance"
   - "Time-Critical Services"
   button:
     enable : true
-    label : "Get started for free"
-    link : "#"
+    label : "Contact Us"
+    link : "contact"
     
 professional:
-  name : "Professional Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Professionals"
+  name : "Time & Material Contract"
   services:
   - "Express Service"
   - "Customs Clearance"
@@ -32,28 +26,25 @@ professional:
   - "Best Dashboard"
   button:
     enable : true
-    label : "Get started for free"
-    link : "#"
+    label : "Contact Us"
+    link : "contact"
     
 business:
-  name : "Business Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Large Individuals"
+  name : "Dedicated Developer"
   services:
   - "Express Service"
   - "Customs Clearance"
   - "Time-Critical Services"
   button:
     enable : true
-    label : "Get started for free"
-    link : "#"
+    label : "Contact Us"
+    link : "contact"
 
 call_to_action:
   enable : true
-  title : "Need a larger plan?"
+  title : "Had something<br> else in mind?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur"
   button:
     enable : true
     label : "Contact Us"

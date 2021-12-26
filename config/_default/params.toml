@@ -3,10 +3,10 @@ logo = "images/logo.png"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "Themefisher"
+author = "Luka Stanisic"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mdobnkbr"
 
 # Type of pages to be rendered with a blog view
 blogCategoryType = "category"
@@ -20,7 +20,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Get Started"
-link = "contact"
+link = "pricing"
 
 # cookies
 [cookies]
