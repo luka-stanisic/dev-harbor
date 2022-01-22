@@ -7,10 +7,11 @@ draft: false
 
 basic:
   name : "Fixed price contract"
+  icon : "fas fa-dollar-sign"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - "Detailed software specifications required"
+  - "Exact requirements specified from the start"
+  - "Standard arhitecture"
   button:
     enable : true
     label : "Contact Us"
@@ -18,6 +19,7 @@ basic:
     
 professional:
   name : "Time & Material Contract"
+  icon : "fas fa-user-clock"
   services:
   - "Express Service"
   - "Customs Clearance"
@@ -31,6 +33,7 @@ professional:
     
 business:
   name : "Dedicated Developer"
+  icon : "fas fa-user-tie"
   services:
   - "Express Service"
   - "Customs Clearance"
@@ -44,7 +47,7 @@ call_to_action:
   enable : true
   title : "Had something<br> else in mind?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur"
+  content : "We are flexible towards your business processes and requirements. If the contract options above don’t fit what you’re looking for, you can suggest your own."
   button:
     enable : true
     label : "Contact Us"

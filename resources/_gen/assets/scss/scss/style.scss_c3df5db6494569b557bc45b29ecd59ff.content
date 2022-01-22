@@ -288,6 +288,9 @@ textarea.form-control {
   background-color: transparent;
   font-weight: 700; }
 
+main {
+  min-height: calc(100vh - 75px); }
+
 .banner {
   padding: 100px 0 50px; }
 
@@ -551,3 +554,7 @@ a.post-title {
 .price {
   font-size: 50px;
   color: #14213d; }
+
+.card .card-body .card-icon {
+  font-size: 4rem;
+  color: #fca311; }

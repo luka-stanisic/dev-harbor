@@ -17,7 +17,7 @@ feature:
     # feature item loop
     - name : "User experience"
       icon : "fas fa-heart"
-      content : "We create applications that people actually enjoy using daily"
+      content : "We create applications that people will enjoy using daily"
       
     # feature item loop
     - name : "Tailor-made Solutions"
@@ -58,25 +58,25 @@ service:
         enable : false
 
     # service item loop
-    - title : "Delivering full scope of work"
+    - title : "Full scope of work"
       images:
-      - "images/service-1.png"
-      content : "Full-stack team that can build a custom enterprise-grade solution. From high-load systems to proof-of-concepts."
+      - "images/full-scope-work.svg"
+      content : "Our team has you covered every step of the way. From the initial product discussions and ideas, through system design, application development and UI design, all the way to release and maintenance - we've got it all covered."
       button:
         enable : false
     
     # service item loop
     - title : "Modernize legacy technology"
       images:
-      - "images/service-1.png"
+      - "images/modernize.svg"
       content : "Re-architecting legacy technology with a data migration plan for better user experience to support digital transformation."
       button:
         enable : false
 
     # service item loop
-    - title : "Technologies"
+    - title : "Expertise"
       images:
-      - "images/service-1.png"
+      - "images/technologies.svg"
       content : "Re-architecting legacy technology with a data migration plan for better user experience to support digital transformation."
       button:
         enable : false
@@ -84,7 +84,7 @@ service:
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "\"A team with insanely<br> high standards\""
+  title : "\"They are a team with <br>insanely high standards\""
   image : "images/dev-harbor-workflow.svg"
 
 ##################### Call to action #####################
