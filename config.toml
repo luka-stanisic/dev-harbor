@@ -2,6 +2,7 @@ baseURL = 'http://dev-harbor.com'
 languageCode = 'en-us'
 title = 'Dev Harbor'
 theme = "bigspring-light"
+Copyright = "© Dev Harbor 2022"
 
 [params]
 favicon = '/favicon.ico'
