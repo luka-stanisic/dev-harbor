@@ -14,36 +14,35 @@ feature:
   enable : true
   title : "Core values"
   feature_item:
-    # feature item loop
+    # User experience
     - name : "User experience"
       icon : "fas fa-heart"
-      content : "We create applications that people will enjoy using daily"
+      content : "We create beautiful & clean apps that people will enjoy using daily"
       
-    # feature item loop
+    # Tailor-made Solutions
     - name : "Tailor-made Solutions"
       icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We are developing software specifically for every individual requirement"
       
-    # feature item loop
+    # Simplicity
     - name : "Simplicity"
       icon : "fas fa-magic"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We always strive to find and implement the simplest solution to any given problem"
 
-    # feature item loop
+    # Scalable Design
     - name : "Scalable Design"
       icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We build every application with stable growth and future improvements in mind"
       
-      
-    # feature item loop
+    # Performance
     - name : "Performance"
       icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We take great measures to ensure all our applications are blazing fast"
       
-    # feature item loop
+    # Responsive design
     - name : "Responsive design"
       icon : "fas fa-mobile-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We design our apps to work optimally with laptops, tablets and smart phones"
       
 ######################### Service #####################
 service:
@@ -84,8 +83,14 @@ service:
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "\"They are a team with <br>insanely high standards\""
+  title : "\"A team with insanely <br>high standards\""
   image : "images/dev-harbor-workflow.svg"
+
+################### Clients ########################
+clients:
+  enable : true
+  title : "Some of our clients"
+  image : "images/clients.svg"
 
 ##################### Call to action #####################
 call_to_action:

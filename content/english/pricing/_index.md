@@ -6,26 +6,32 @@ description: "This is meta description"
 draft: false
 
 basic:
-  name : "Fixed price contract"
+  name : "Fixed price"
   icon : "fas fa-dollar-sign"
   services:
+  - "Price defined in advance"
   - "Detailed software specifications required"
-  - "Exact requirements specified from the start"
+  - "Exact features specified from the start"
   - "Standard arhitecture"
+  - "Fixed project requirements"
+  - "Longer preparations"
   button:
     enable : true
     label : "Contact Us"
     link : "contact"
     
 professional:
-  name : "Time & Material Contract"
+  name : "Time & Material"
   icon : "fas fa-user-clock"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  - "Cloud Service"
-  - "Best Dashboard"
+  - "Pay by actual time spent"
+  - "Detailed vision not necessary"
+  - "Dynamic project requirements"
+  - "Agile develpment"
+  - "Flexibility for direction changes"
+  - "Less time planning beforehand"
+  - "Faster project start"
+  - "More control over project"
   button:
     enable : true
     label : "Contact Us"
@@ -35,9 +41,12 @@ business:
   name : "Dedicated Developer"
   icon : "fas fa-user-tie"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - "Secured professional"
+  - "Great for long-term projects"
+  - "Changing requirements"
+  - "Maintenance"
+  - "Connected to client's team"
+  - "Part-Time or Full-Time"
   button:
     enable : true
     label : "Contact Us"
