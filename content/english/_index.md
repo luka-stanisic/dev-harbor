@@ -17,7 +17,7 @@ feature:
     # User experience
     - name : "User experience"
       icon : "fas fa-heart"
-      content : "We create beautiful & clean apps that people will enjoy using daily"
+      content : "We create beautiful & clean apps that people enjoy using daily"
       
     # Tailor-made Solutions
     - name : "Tailor-made Solutions"
@@ -27,7 +27,7 @@ feature:
     # Simplicity
     - name : "Simplicity"
       icon : "fas fa-magic"
-      content : "We always strive to find and implement the simplest solution to any given problem"
+      content : "We always strive to find and implement the simplest solution for any given problem"
 
     # Scalable Design
     - name : "Scalable Design"
@@ -42,7 +42,7 @@ feature:
     # Responsive design
     - name : "Responsive design"
       icon : "fas fa-mobile-alt"
-      content : "We design our apps to work optimally with laptops, tablets and smart phones"
+      content : "We design our apps to work perfectly with laptops, tablets and smart phones"
       
 ######################### Service #####################
 service:
@@ -52,7 +52,7 @@ service:
     - title : "Custom software development"
       images:
       - "images/custom-software.svg"
-      content : "Looking to build a product from scratch or improve an existing one? We are your one-stop-shop for the complete custom software development lifecycle.<br> We take care of design, development, and consultancy to develop bespoke software solutions for businesses around the world.<br> If you want to take your brand to the next level, custom software designed specifically for your organization is one of the smartest ways to do it. It’s yours alone, and no one else has anything like it."
+      content : "We are your one-stop-shop for the complete custom software development lifecycle.<br><br> We take care of design, development, and consultancy to develop bespoke software solutions for businesses around the world.<br><br> If you want to take your brand to the next level, custom software designed specifically for your organization is one of the smartest ways to do it. It’s yours alone, and no one else has anything like it."
       button:
         enable : false
 
@@ -68,7 +68,7 @@ service:
     - title : "Modernize legacy technology"
       images:
       - "images/modernize.svg"
-      content : "Re-architecting legacy technology with a data migration plan for better user experience to support digital transformation."
+      content : "Re-architecting legacy technology for a better user experience to support digital transformation."
       button:
         enable : false
 
@@ -76,7 +76,7 @@ service:
     - title : "Expertise"
       images:
       - "images/technologies.svg"
-      content : "Re-architecting legacy technology with a data migration plan for better user experience to support digital transformation."
+      content : "We have expertise in the most prominent technologies which help us to deliver innovative and next-gen software development solutions to all our clients."
       button:
         enable : false
 
