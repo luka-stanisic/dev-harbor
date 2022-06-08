@@ -13,3 +13,7 @@ You can reach out through the contact form, or via our office email below. Eithe
 
 * **Mail: office@dev-harbor.com**
 * **Location: Belgrade, Serbia**
+<br><br>
+* **Company Name: Dev Harbor d.o.o.**
+* **Company ID: 21797235**
+* **Vat No: 113075028**
