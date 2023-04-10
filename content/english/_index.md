@@ -3,7 +3,7 @@
 banner:
   title : "Bespoke software development company specializing in enterprise applications"
   image : "images/banner-art.svg"
-  content : "We build custom software solutions to your specific business needs. We’re trusted by both local and global companies in multiple industries and are confident we can improve your organization with an exceptional product."
+  content : "Our team builds custom software solutions to meet your specific business requirements. With our proven track record of delivering exceptional products, we're trusted by both local and global companies across multiple industries."
   button:
     enable : true
     label : "Contact Us"
@@ -52,7 +52,7 @@ service:
     - title : "Custom software development"
       images:
       - "images/custom-software.svg"
-      content : "We are your one-stop-shop for the complete custom software development lifecycle.<br><br> We take care of design, development, and consultancy to develop bespoke software solutions for businesses around the world.<br><br> If you want to take your brand to the next level, custom software designed specifically for your organization is one of the smartest ways to do it. It’s yours alone, and no one else has anything like it."
+      content : "We provide custom software development services that meet the needs of businesses worldwide. Our end-to-end solutions cover design, development, and consultancy.<br><br> We work with you to create a unique system that meets your specific requirements and helps you achieve your objectives.<br><br> Our goal is to provide you with high-quality, user-friendly software that optimizes your operations and fits your budget."
       button:
         enable : false
 
@@ -60,7 +60,7 @@ service:
     - title : "Full scope of work"
       images:
       - "images/full-scope-work.svg"
-      content : "Our team has you covered every step of the way. From the initial product discussions and ideas, through system design, application development and UI design, all the way to release and maintenance - we've got it all covered."
+      content : "We provide end-to-end custom software development services, from product discussions and ideas to system design, UI design, application development, release, and maintenance. We work closely with you to ensure that the software solution meets your unique business requirements and helps you achieve your goals."
       button:
         enable : false
     
@@ -68,23 +68,37 @@ service:
     - title : "Modernize legacy technology"
       images:
       - "images/modernize.svg"
-      content : "Re-architecting legacy technology for a better user experience to support digital transformation."
+      content : "We help businesses modernize their legacy technology, improving their systems' functionality, efficiency, and security. Our team offers end-to-end solutions for legacy system migration, modernization, and maintenance, ensuring that your business remains competitive and future-proof."
       button:
         enable : false
 
     # service item loop
-    - title : "Expertise"
-      images:
-      - "images/technologies.svg"
-      content : "We have expertise in the most prominent technologies which help us to deliver innovative and next-gen software development solutions to all our clients."
-      button:
-        enable : false
+    # - title : "Expertise"
+    #   images:
+    #   - "images/technologies.svg"
+    #   content : "Our team specializes in the latest technologies, enabling us to provide innovative and next-gen software development solutions to all our clients. Our expertise covers a range of prominent technologies, ensuring that we can meet your unique business requirements and deliver high-quality, cutting-edge solutions."
+    #   button:
+    #     enable : false
 
-################### Screenshot ########################
-screenshot:
+##################### Mini feature ##########################
+mini_feature:
   enable : true
-  title : "\"A team with insanely <br>high standards\""
-  image : "images/dev-harbor-workflow.svg"
+  title : "Expertise"
+  feature_item:
+    # Native mobile
+    - name : "Native mobile"
+      icon : "fas fa-mobile-alt"
+      content : "Engaging and intuitive mobile experiences for your audience on-the-go"
+      
+    # Web applications
+    - name : "Web applications"
+      icon : "fas fa-laptop"
+      content : "Building software for businesses of any size, from small apps to large-scale systems."
+      
+    # Consulting
+    - name : "Consulting"
+      icon : "fas fa-users"
+      content : "Expert guidance and solutions to help your business thrive in the digital age"
 
 ################### Clients ########################
 clients:
@@ -92,10 +106,16 @@ clients:
   title : "Some of our clients"
   image : "images/clients.svg"
 
+################### Screenshot ########################
+screenshot:
+  enable : true
+  title : "\"A team with insanely <br>high standards\""
+  image : "images/dev-harbor-workflow.svg"
+
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Are you ready to implement your next project?"
+  title : "Are you ready to kickstart your next project?"
   image : "images/cta.svg"
   content : ""
   button:
